@@ -1,12 +1,24 @@
-# React + Vite
+Facebook Landing Page Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A static Facebook landing page clone built using React and Tailwind CSS. This project recreates Facebook’s login page layout primarily for learning and UI design practice.
 
-Currently, two official plugins are available:
+(https://github.com/user-attachments/assets/5e42c334-8b68-4427-8d5d-c0cbe9fd52ee)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🎯 Objective
 
-## Expanding the ESLint configuration
+To practice front-end development using React components and utility-first styling with Tailwind CSS, by replicating a real-world UI design.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+⚙️ Tech Stack
+
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- JSX
+- Tailwind utility classes for styling
+  
+🔍 Features
+
+- Facebook-style login page design
+- Built with reusable React components
+- Clean and organized folder structure
+- Static layout (not responsive yet)
+
